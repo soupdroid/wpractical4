@@ -1,0 +1,20 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li a {
+    color: orangered;
+    text-decoration: none;
+}
+
+h1 {
+    size: 2em;
+}
+
+#page-title a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
