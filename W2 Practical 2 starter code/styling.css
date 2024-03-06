@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 li a {
-    color: orangered;
+    color: blueviolet;
     text-decoration: none;
 }
 
@@ -15,6 +15,14 @@ h1 {
     size: 2em;
 }
 
-#page-title a{
+#page-title a {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#everything {
+    background-color: white;
+}
+
+header {
+    inline-block;
 }
